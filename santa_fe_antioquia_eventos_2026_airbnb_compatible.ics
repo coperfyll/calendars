@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+PRODID:-//OpenAI//Santa Fe de Antioquia Cultural Calendar 1.0//ES
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
+SUMMARY:Fiestas del Río Tonusco 2026
+UID:8cc4b4ee788aa54bc2b936194a8887fd@santafedeantioquia-events.local
+DESCRIPTION:Evento cultural y turístico en Santa Fe de Antioquia. Fechas:
+  10–11 enero 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Festival Hilando Historias
+UID:b9c846dc9b5fd5e6667f6cbb134d9f27@santafedeantioquia-events.local
+DESCRIPTION:Evento cultural y literario en Santa Fe de Antioquia. Fecha: 
+ 20 febrero 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260406
+SUMMARY:Semana Santa 2026
+UID:83733c8476f49fae0ffd93ca73daedd6@santafedeantioquia-events.local
+DESCRIPTION:Semana Santa en Santa Fe de Antioquia. Programación religiosa
+ \, patrimonial y cultural. Fechas: 28 marzo–5 abril 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+SUMMARY:Feria del Tamarindo 2026
+UID:2424d99f5feb0c5bef0cb4e7c362b2d7@santafedeantioquia-events.local
+DESCRIPTION:Feria gastronómica y cultural en Santa Fe de Antioquia. Fecha
+ s: 14–16 agosto 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:El Duende del Circo
+UID:53cdb8d41ab350d8775f65e46153c9f0@santafedeantioquia-events.local
+DESCRIPTION:Teatro y títeres en Santa Fe de Antioquia. Fecha: 22 agosto 2
+ 026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Camino al Festival 2026
+UID:d3e767a309e78cd87420cd43ffa35418@santafedeantioquia-events.local
+DESCRIPTION:Antioquia le Canta a Colombia en Santa Fe de Antioquia. Fecha
+ : 19 septiembre 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261007
+SUMMARY:Candela Festival 2026
+UID:a9ff0bf3fafe0e73fa268af8229ce0fb@santafedeantioquia-events.local
+DESCRIPTION:Festival de gastronomía\, arte y tradición en Santa Fe de Ant
+ ioquia. Fechas: 3–6 octubre 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261117
+SUMMARY:Festival de Artes de la Calle 2026
+UID:afbc7c063e6132d536078ce18a606a12@santafedeantioquia-events.local
+DESCRIPTION:Festival de teatro\, música\, circo y artes de calle. Fechas:
+  13–16 noviembre 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY:Festival de Cine de Santa Fe de Antioquia 2026
+UID:61eb5d3f108dc421fa344e69b17f75eb@santafedeantioquia-events.local
+DESCRIPTION:Festival de cine y actividades audiovisuales. Fechas: 4–8 dic
+ iembre 2026.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T162433Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270101
+SUMMARY:Fiestas de los Diablitos 2026
+UID:a6a4f47fb056e5f56771cb25aa0eec65@santafedeantioquia-events.local
+DESCRIPTION:Fiesta tradicional de Santa Fe de Antioquia. Fechas tradicion
+ ales: 22–31 diciembre 2026.
+END:VEVENT
+END:VCALENDAR
