@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Eventos culturales Santa Fe de Antioquia 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santa Fe de Antioquia — Cultura y Festivales 2026
+X-WR-TIMEZONE:America/Bogota
+BEGIN:VEVENT
+UID:14952006e4e2c8832274abf1bfa2dc19@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
+SUMMARY:Fiestas del Río Tonusco 2026
+LOCATION:Santa Fe de Antioquia\, Antioquia\, Colombia
+DESCRIPTION:Fiesta tradicional junto al río con música\, cultura\, concur
+ sos y actividades recreativas. Fechas confirmadas: 10 y 11 de enero de 2
+ 026. Fuente: Comfenalco Antioquia / Infolocal. https://infolocal.comfena
+ lcoantioquia.com/index.php/agenda/fiestas-rio-tonusco-2026
+CATEGORIES:Cultura\,Festival\,Tradición\,Turismo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc23ee62beaf4c498633a7b1fc5a8154@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Festival Hilando Historias
+LOCATION:Unidad de Servicios Occidente y Museo Juan del Corral\, Santa Fe
+  de Antioquia
+DESCRIPTION:Jornada cultural de lectura\, talleres\, conversatorios y act
+ ividades familiares. Programación de 10:00 a. m. a 7:00 p. m. en distint
+ os espacios. Fuente: Comfenalco Antioquia. https://www.comfenalcoantioqu
+ ia.com.co/eventos-comfenalco/2026/febrero/santa%20fe%20de%20antioquia%20
+ vivira%20el%20festival%20hilando%20historias
+CATEGORIES:Cultura\,Literatura\,Familias
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e97b2b6fdf952d19ecbc88ca1961e907@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260406
+SUMMARY:Semana Santa 2026 — programación religiosa y cultural
+LOCATION:Centro Histórico de Santa Fe de Antioquia\, Antioquia\, Colombia
+DESCRIPTION:Programación patrimonial con procesiones\, exposiciones como 
+ “El Gólgota”\, conciertos de música sacra y muestras artesanales. Fechas
+  confirmadas: 28 de marzo al 5 de abril de 2026. Fuentes: Gobernación de
+  Antioquia y agenda turística local. https://www.antioquia.gov.co/index.
+ php/antioquiacuenta/antioquia-se-prepara-para-semana-santa-2026-con-ruta
+ s-de-fe-cultura-y-turismo-en-todo-el-territorio
+CATEGORIES:Patrimonio\,Cultura\,Religión\,Turismo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0bcb905d31137b9bfd42effe96b1af27@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+SUMMARY:Feria del Tamarindo 2026
+LOCATION:Plaza Mayor Simón Bolívar y otros espacios\, Santa Fe de Antioqu
+ ia
+DESCRIPTION:Feria gastronómica y cultural dedicada al tamarindo\, con des
+ file\, emprendimiento\, conciertos\, muestra cultural y festival gastron
+ ómico. Fechas confirmadas: 14 al 16 de agosto de 2026. Fuente: Infolocal
+  / Comfenalco Antioquia. https://infolocal.comfenalcoantioquia.com/index
+ .php/agenda/feria-tamarindo-2026
+CATEGORIES:Gastronomía\,Cultura\,Feria\,Turismo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3530912b3ae9222731cefb79e85a8af0@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;TZID=America/Bogota:20260822T190000
+DTEND;TZID=America/Bogota:20260822T210000
+SUMMARY:El Duende del Circo — teatro y títeres
+LOCATION:Teatro Bertha\, Santa Fe de Antioquia
+DESCRIPTION:Espectáculo familiar de títeres\, teatro y fantasía. Sábado 2
+ 2 de agosto de 2026 a las 7:00 p. m. Entrada libre para afiliados Comfen
+ alco A y B con reserva previa. Fuente: Comfenalco Antioquia. https://www
+ .comfenalcoantioquia.com.co/wcm/connect/eventos-contenidos/ascontenedorc
+ ontenidoseventos/2026/agosto/el%2Bduende%2Bdel%2Bcirco%2Bsanta%2Bfe
+CATEGORIES:Teatro\,Cultura\,Familias
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:131c705eca26d288f10942e32caa94a0@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;TZID=America/Bogota:20260919T170000
+DTEND;TZID=America/Bogota:20260919T210000
+SUMMARY:Camino al Festival 2026 — Antioquia le Canta a Colombia
+LOCATION:Santa Fe de Antioquia\, Antioquia\, Colombia
+DESCRIPTION:Tarde y noche de música andina. Presentaciones a las 5:00 p. 
+ m. en La Maquea y a las 7:00 p. m. en el Coliseo del sector Miraflores. 
+ Fecha confirmada: 19 de septiembre de 2026. Fuente: Antioquia le Canta a
+  Colombia. https://www.antioquialecantaacolombia.co/camino-al-festival
+CATEGORIES:Música\,Cultura\,Festival
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2b07e621968f4f899926c59bc40cce40@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261007
+SUMMARY:Candela Festival 2026
+LOCATION:Santa Fe de Antioquia\, Antioquia\, Colombia
+DESCRIPTION:Festival de gastronomía\, sabores\, arte y tradición. Fechas 
+ confirmadas: 3 al 6 de octubre de 2026. Fuente: Alcaldía de Santa Fe de 
+ Antioquia. https://santafedeantioquia-antioquia.gov.co/Noticias/Paginas/
+ Ya-estamos-listos-para-vivir-el-Candela-Festival.aspx
+CATEGORIES:Gastronomía\,Cultura\,Festival\,Turismo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:214f56f91e6d0e583ab4939286a8155d@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261117
+SUMMARY:Festival de Artes de la Calle 2026
+LOCATION:Calles\, plazas y espacios culturales de Santa Fe de Antioquia
+DESCRIPTION:Encuentro de teatro\, música\, circo y expresiones artísticas
+  en el espacio público. Fechas confirmadas: 13 al 16 de noviembre de 202
+ 6. Fuente: Comfama. https://www.comfama.com/festivales/proyecto-publicos
+ /
+CATEGORIES:Artes escénicas\,Cultura\,Festival\,Turismo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5489ebb8f8a7cebe5df1fa82b2f8ae@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY:27.º Festival de Cine de Santa Fe de Antioquia
+LOCATION:Santa Fe de Antioquia\, Antioquia\, Colombia
+DESCRIPTION:Festival de cine con exhibiciones\, muestras\, talleres y act
+ ividades audiovisuales\, incluidas proyecciones en espacios abiertos del
+  centro histórico. Fechas confirmadas: 4 al 8 de diciembre de 2026. Fuen
+ te: Corporación Festival de Cine de Santa Fe de Antioquia. https://festi
+ cineantioquia.org/operas-primas/
+CATEGORIES:Cine\,Cultura\,Festival\,Turismo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cff64c36bde6f219f56197faf24cb151@openai.local
+DTSTAMP:20260917T161125Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270101
+SUMMARY:Fiestas de los Diablitos 2026
+LOCATION:Santa Fe de Antioquia\, Antioquia\, Colombia
+DESCRIPTION:Fiesta patrimonial tradicional con máscaras\, comparsas\, mús
+ ica\, danza y expresiones populares. La guía turística local indica que 
+ se celebra anualmente del 22 al 31 de diciembre. Para 2026 se incluye co
+ mo fecha tradicional anual\; conviene verificar la programación detallad
+ a al acercarse diciembre. Fuente: portal turístico de Santa Fe de Antioq
+ uia. https://www.santafedeantioquia.com.co/eventos-de-ciudad/
+CATEGORIES:Patrimonio\,Cultura\,Tradición\,Festival\,Turismo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
